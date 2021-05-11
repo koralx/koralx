@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @koralx, Miron Ystansev!
 - 👀 I’m interested in music, programming, watching anime and others
 - 🌱 I’m currently learning node.js, JavaScript and others
-- 📫 How to reach me miron.miron.y@mail.ru
+- 📫 How to reach me miron.miron.y@mail.ru, koralx#2139, https://vk.com/kstatiyamiron
