@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @koralx, Miron Ystansev, 17 years old!
-- 👀 I’m interested in music, programming, watching anime and others
-- 🌱 My favorite programing language JS! - Currently i learning PHP
-- 📫 How to reach me miron.miron.y@mail.ru, koralx#2139, https://vk.com/kstatiyamiron
+👋 Hi, I’m Miron, 17 years old. its my github profile where i publicate my web-app on node.js.
+My current favorite programming language is JavaScript Node because it has a lot of modules.
